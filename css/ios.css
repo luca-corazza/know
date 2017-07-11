@@ -1,0 +1,34 @@
+/* CSS iOS(ios.html)*/
+
+body{
+    font-size:18px;
+    font-family: "Verdana";
+}
+.title{
+    color:white;
+    font-size:50px;
+    margin-top:0;
+}
+
+.navbar-default{
+    margin-bottom:0px;    
+}
+
+.navbar-brand{
+    margin-left: 10px;
+}
+
+.nav-mr{
+    margin-right: 10px;
+}
+
+
+.step-one{
+    text-align: center;
+    background-color: rgba(0, 120, 150, 200);
+    height:100px;
+}
+
+.sezione-one{
+    padding-top:25px;
+}
