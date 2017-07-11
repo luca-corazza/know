@@ -1,0 +1,14 @@
+/* CSS homepage(index.html)*/
+
+body{
+    font-size:18px;
+    font-family: "Verdana";
+}
+
+.navbar-brand{
+    margin-left: 10px;
+}
+
+.nav-mr{
+    margin-right: 10px;
+}
