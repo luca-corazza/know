@@ -37,3 +37,13 @@ body{
     background-color: rgba(0, 120, 150, 200);
     height:600px;
 }
+
+.text-second-step{
+    color:black;
+    text-align: center;
+}
+
+.icon-mobile{
+    color:black;
+    text-align: center;
+}
